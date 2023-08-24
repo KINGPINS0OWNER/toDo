@@ -72,7 +72,7 @@ function App() {
             setNewTodo("");
         } catch (error) {
             console.error("Error adding todo: ", error);
-            // Handle error here, display a message to the user, etc.
+            // Handle error here, display a message to the user, etc..
         }
     }
 
